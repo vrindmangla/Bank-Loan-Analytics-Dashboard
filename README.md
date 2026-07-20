@@ -27,6 +27,80 @@ This dashboard addresses these challenges through interactive analytics and exec
 
 ---
 
+# 📂 Dataset Information
+
+### Dataset Source
+The project uses the **Lending Club Loan Dataset**, one of the largest publicly available peer-to-peer lending datasets, containing detailed information about loan applications, borrower profiles, repayment history, and credit risk indicators.
+
+### Dataset Size
+- **147,000+ Loan Records Analyzed**
+- **20+ Features Used for Analysis**
+- Historical loan portfolio data across multiple states and borrower segments
+
+### Key Attributes
+
+| Category | Columns |
+|-----------|---------|
+| Loan Information | Loan ID, Loan Amount, Term, Interest Rate, Loan Status |
+| Borrower Profile | Annual Income, Employment Length, Home Ownership |
+| Credit Risk | Credit Score, DTI Ratio, Grade, Sub Grade |
+| Financial Metrics | Funded Amount, Amount Received, Outstanding Amount |
+| Geographic Data | State |
+| Time Attributes | Issue Date, Loan Term |
+
+### Loan Status Categories
+
+The dataset categorizes loans into multiple statuses:
+
+- Fully Paid
+- Current
+- Charged Off
+- Default
+- In Grace Period
+- Late (16–30 Days)
+- Late (31–120 Days)
+
+### Data Preparation
+
+The dataset underwent extensive preprocessing before visualization:
+
+- Removed duplicate records
+- Handled missing values
+- Standardized loan status categories
+- Created customer segments based on income and employment
+- Derived risk bands using credit score and DTI
+- Generated date hierarchy for time-series analysis
+- Created calculated measures using DAX
+
+### Feature Engineering
+
+Additional business metrics were created to enhance analysis:
+
+- Good Loan %
+- Bad Loan %
+- Recovery Rate
+- Default Rate
+- Outstanding Amount
+- Customer Segments
+- Income Bands
+- Credit Score Bands
+- High-Risk Loan Flag
+
+### Business Relevance
+
+The dataset provides a realistic representation of a lending institution's portfolio and enables analysis of:
+
+- Lending performance
+- Repayment behavior
+- Credit risk exposure
+- Borrower demographics
+- Portfolio concentration
+- Geographic lending trends
+
+This makes it an ideal dataset for demonstrating **Business Intelligence, Risk Analytics, and Financial Data Analysis** skills.
+
+---
+
 ## 🛠️ Tech Stack
 
 | Technology | Usage |
