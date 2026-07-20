@@ -337,22 +337,22 @@ This dashboard enables stakeholders to:
 ## 📸 Dashboard Preview
 
 ### Cover Page
-![Cover Page](Images/capture3.PNG)
+![Cover Page](bankloan/Images/capture3.PNG)
 
 ### Overview
-![Overview](Images/Capture33.PNG)
+![Overview](bankloan/Images/Capture33.PNG)
 
 ### Loan Performance
-![Loan Performance](Images/Capture333.PNG)
+![Loan Performance](bankloan/Images/Capture333.PNG)
 
 ### Risk Analytics
-![Risk Analysis](Images/Capture3333.PNG)
+![Risk Analysis](bankloan/Images/Capture3333.PNG)
 
 ### Customer Analytics
-![Customer Analysis](Images/Capture33333.PNG)
+![Customer Analysis](bankloan/Images/Capture33333.PNG)
 
 ### Insights & Recommendations
-![Insights & Recommnedations](Images/Capture333333.PNG)
+![Insights & Recommnedations](bankloan/Images/Capture333333.PNG)
 
 ---
 
