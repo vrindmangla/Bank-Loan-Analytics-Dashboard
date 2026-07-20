@@ -337,22 +337,22 @@ This dashboard enables stakeholders to:
 ## 📸 Dashboard Preview
 
 ### Cover Page
-![Cover Page](Images/capture3.png)
+![Cover Page](Images/capture3.PNG)
 
 ### Overview
-![Overview](Images/Capture33.png)
+![Overview](Images/Capture33.PNG)
 
 ### Loan Performance
-![Loan Performance](Images/Capture333.png)
+![Loan Performance](Images/Capture333.PNG)
 
 ### Risk Analytics
-![Risk Analysis](Images/Capture3333.png)
+![Risk Analysis](Images/Capture3333.PNG)
 
 ### Customer Analytics
-![Customer Analysis](Images/Capture33333.png)
+![Customer Analysis](Images/Capture33333.PNG)
 
 ### Insights & Recommendations
-![Insights & Recommnedations](Images/Capture333333.png)
+![Insights & Recommnedations](Images/Capture333333.PNG)
 
 ---
 
